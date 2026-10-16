@@ -28,5 +28,5 @@ Follow these steps to run the project locally on your machine:
 
 ### 1. Clone the Repository
 ```bash
-git clone [https://github.com/APKA_GITHUB_USERNAME/PayShield-AI.git](https://github.com/sukhsidhu74274-byte/PayShield-AI.git)
+git clone [https://github.com/sukhsidhu74274-byte/PayShield-AI.git](https://github.com/sukhsidhu74274-byte/PayShield-AI.git)
 cd PayShield-AI
